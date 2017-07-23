@@ -31,13 +31,13 @@ h2 {background-color: #666633;
 nav {background-color: #734d26;
   color: white;
   width: 200px;
-  height: 700px;
+  height: 75%;
   display: inline-block;
   font-size: 16px;
   font-family: century;
   margin-top: 0px;}
 section {width: 75%;
-  height: 700px;
+  height: 70%;
   display: block;
   padding: 0px;
   text-align: center;
